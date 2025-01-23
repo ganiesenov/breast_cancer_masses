@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['ARCH', 'ASYM', 'CALC', 'CIRC', 'MISC', 'SPIC']
+
+roboflow:
+  workspace: rushikesh-jagtap
+  project: mias-3x7za
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rushikesh-jagtap/mias-3x7za/dataset/3

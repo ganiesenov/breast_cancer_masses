@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['0', '1']
+
+roboflow:
+  workspace: breast-fp534
+  project: cbis-ddsm-masses
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/breast-fp534/cbis-ddsm-masses/dataset/2

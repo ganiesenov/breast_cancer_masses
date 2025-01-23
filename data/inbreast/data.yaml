@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Mass_1', 'Mass_2', 'Mass_3']
+
+roboflow:
+  workspace: image-process-xjp0f
+  project: inbreast-dataset-emiuj
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/image-process-xjp0f/inbreast-dataset-emiuj/dataset/2

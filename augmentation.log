@@ -1,0 +1,22 @@
+2025-01-21 12:04:44,691 - INFO - Found 6 images
+2025-01-21 12:04:44,691 - INFO - Copying original files...
+2025-01-21 12:04:44,745 - INFO - Generating 3 augmentations per image...
+2025-01-21 12:04:44,956 - INFO - 
+Augmentation completed!
+2025-01-21 12:04:44,957 - INFO - Successfully processed: 6/6 images
+2025-01-21 12:06:31,996 - INFO - Found 6 total images
+2025-01-21 12:06:31,996 - INFO - Found 6 original images
+2025-01-21 12:06:32,000 - INFO - Copying original files...
+2025-01-21 12:06:32,008 - INFO - Generating 3 augmentations per image...
+2025-01-21 12:06:32,291 - INFO - 
+Augmentation completed!
+2025-01-21 12:06:32,300 - INFO - Original images: 6
+2025-01-21 12:06:32,300 - INFO - Generated augmentations: 112
+2025-01-21 12:06:32,301 - INFO - Total images after augmentation: 118
+2025-01-21 12:14:22,384 - INFO - Found 100 original images in train directory
+2025-01-21 12:14:22,387 - INFO - Generating 3 augmentations per image...
+2025-01-21 12:14:25,771 - INFO - 
+Augmentation completed!
+2025-01-21 12:14:25,772 - INFO - Original images in train: 100
+2025-01-21 12:14:25,772 - INFO - Generated augmentations: 300
+2025-01-21 12:14:25,773 - INFO - Total images after augmentation: 400
